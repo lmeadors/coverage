@@ -17,8 +17,8 @@
     </modules>
 
     <properties>
-        <platform.version>2.3.3
-        </platform.version>
+        <platform.version>2.3.3</platform.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencyManagement>
